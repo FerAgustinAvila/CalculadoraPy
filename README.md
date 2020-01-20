@@ -12,7 +12,7 @@ Algo que cabe aclarar, conozco Python aunque nunca antes habia utlizado un frame
 Utilicé Flask porque era el que me pedían. La 
 
 # *IMPORTANTE*
-###FALTA:
+### FALTA:
 	Limite de digitos
 	Logaritmo neperiano
 	Funcion de Guardar
@@ -23,17 +23,17 @@ Utilicé Flask porque era el que me pedían. La
 
 
 
-##Formato de calculadora:
+## Formato de calculadora:
 	https://github.com/helloflask/calculator
 
-##Complemento:
+## Complemento:
 	https://evelb.es/calculadora-javascript/
 
-##Tutorial de Flask:
+## Tutorial de Flask:
 	https://www.youtube.com/playlist?list=PLagErt3C7iltAydvN6SgCVKsOH4xQQKsk
 
-##Mockup/Prototipos:
+## Mockup/Prototipos:
 	https://moqups.com/
 
-##Tiempo de desarrollo hasta el momento:
+## Tiempo de desarrollo hasta el momento:
 	12 horas
